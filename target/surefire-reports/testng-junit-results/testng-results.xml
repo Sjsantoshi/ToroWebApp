@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="52" started-at="2020-05-01T12:37:21 CDT" finished-at="2020-05-01T12:37:22 CDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="52" started-at="2020-05-01T12:37:21 CDT" finished-at="2020-05-01T12:37:22 CDT">
+      <class name="Cucumber.Automation.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="8" started-at="2020-05-01T12:37:22 CDT" finished-at="2020-05-01T12:37:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- Cucumber.Automation.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
